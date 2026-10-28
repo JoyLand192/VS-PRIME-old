@@ -1,3 +1,5 @@
-# VS-PRIME
-Unity 2D Platformer RPG Adventure
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JoyLand192/VS-PRIME)
+# ~~VS-PRIME~~
+~~Unity 2D Platformer RPG Adventure~~
+
+**Development of this repository is currently discontinued.**
+**Please refer to the [VRIS](https://github.com/JoyLand192/VRIS) repository instead.**
